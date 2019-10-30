@@ -1,0 +1,14 @@
+com/luochan/bean/AppComment.class
+com/luochan/bean/AppPraise.class
+com/luochan/bean/AppErrorLog.class
+com/luochan/bean/AppDisplay.class
+com/luochan/bean/AppActive_foreground.class
+com/luochan/bean/AppActive_background.class
+com/luochan/bean/AppNotification.class
+com/luochan/bean/AppNewsDetail.class
+com/luochan/appclient/AppMain.class
+com/luochan/bean/AppStart.class
+com/luochan/bean/AppLoading.class
+com/luochan/bean/AppAd.class
+com/luochan/bean/AppBase.class
+com/luochan/bean/AppFavorites.class
